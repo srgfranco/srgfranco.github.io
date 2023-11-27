@@ -4,4 +4,4 @@ title: Sobre
 permalink: /sobre/
 ---
 
-Meu nome é Sergio! Criei esse espaço para compartilhar algumas notas de estudo de tecnologias e ideias sobre coisas diversas. 
+Meu nome é Sergio! Criei esse espaço para compartilhar notas de estudo de tecnologia e ideias sobre coisas diversas. 
