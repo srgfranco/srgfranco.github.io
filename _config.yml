@@ -51,6 +51,7 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
     #  - https://www.instagram.com/srgfranco
+      - https://bsky.app/srgfranco
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
