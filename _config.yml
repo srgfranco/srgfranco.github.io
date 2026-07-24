@@ -28,14 +28,8 @@ url: "https://srgfranco.github.io"
 github:
   username: srgfranco # change to your GitHub username
 
-#twitter:
+twitter:
   #username: twitter_username # change to your Twitter username
-
-bluesky:
-  username: srgfranco
-
-instagram:
-  username: srgfranco
 
 social:
   # Change to your full name.
@@ -50,8 +44,7 @@ social:
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
-    #  - https://www.instagram.com/srgfranco
-      - https://bsky.app/srgfranco
+
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
