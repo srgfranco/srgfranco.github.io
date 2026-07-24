@@ -25,11 +25,17 @@ description: >- # used by seo meta and the atom feed
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://srgfranco.github.io"
 
-#github:
-  #username: srgfranco # change to your GitHub username
+github:
+  username: srgfranco # change to your GitHub username
 
 #twitter:
   #username: twitter_username # change to your Twitter username
+
+bluesky:
+  username: srgfranco
+
+instagram:
+  username: srgfranco
 
 social:
   # Change to your full name.
@@ -44,7 +50,7 @@ social:
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
-      - https://www.instagram.com/srgfranco
+    #  - https://www.instagram.com/srgfranco
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
