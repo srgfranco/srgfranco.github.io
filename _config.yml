@@ -19,14 +19,14 @@ title: Sérgio Franco # the main title
 tagline: Explorando a diversidade da vida. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Blog de divulgação científica sobre evolução, ecologia, biodiversidade, conservação e biologia marinha, baseado em evidências científicas.
+  Blog de divulgação científica sobre evolução, biodiversidade, conservação e biologia marinha, baseado em evidências científicas.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://srgfranco.github.io"
 
-github:
-  username: srgfranco # change to your GitHub username
+#github:
+  #username: srgfranco # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
